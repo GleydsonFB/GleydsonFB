@@ -1,16 +1,22 @@
-### Hi there 👋
+<h3>Olá, me chamo Gleydson, seja bem vindo(a) ao meu repositório 🖖</h3>
+<p>Um pouco sobre meu lado profissional:</p>
+<ul>
+<li>Atualmente estou cursando a faculdade de Banco de Dados 🧑🏽‍💻</li>
 
-<!--
-**GleydsonFB/GleydsonFB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<li>Trabalho no setor de atendimento com suporte ao cliente 🔎</li>
 
-Here are some ideas to get you started:
+<li>Estou em fase de transição de carreira 🏗️</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Rede social</h4>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleydsonfreitas/)<br>
+<h4>Status do repositório</h4>
+
+![GleydsonFB GitHub Stats](https://github-readme-stats.vercel.app/api?username=GleydsonFB&theme=blue-green)
+
+<p>Principais tecnologias:</p>
+<div style="display: inline_block">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
