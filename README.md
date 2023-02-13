@@ -10,7 +10,9 @@
 
 <h4>Rede social</h4>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleydsonfreitas/)<br>
+<a href="https://www.linkedin.com/in/gleydsonfreitas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<button type="button">
 <h4>Status do repositório</h4>
 
 ![GleydsonFB GitHub Stats](https://github-readme-stats.vercel.app/api?username=GleydsonFB&theme=blue-green)
